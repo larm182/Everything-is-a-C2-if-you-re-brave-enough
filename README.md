@@ -10,6 +10,8 @@ Simply run the bundle command to install required gems, generate and populate AP
 
 A dockerized lab is provided for testing purposes.
 
+Link: https://github.com/mauroeldritch/capybara
+
 Presentations
 #	Date	Conference	Link to Video	Link to Slides
 1	AGO-2021	DEFCON 29 Adversary Village	https://www.youtube.com/watch?v=Co516kuQXrs	
